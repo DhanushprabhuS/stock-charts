@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stock-charts/static/css/main.b35e53c2.css",
+    "main.js": "/stock-charts/static/js/main.08d2e4f0.js",
+    "index.html": "/stock-charts/index.html",
+    "main.b35e53c2.css.map": "/stock-charts/static/css/main.b35e53c2.css.map",
+    "main.08d2e4f0.js.map": "/stock-charts/static/js/main.08d2e4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b35e53c2.css",
+    "static/js/main.08d2e4f0.js"
+  ]
+}
